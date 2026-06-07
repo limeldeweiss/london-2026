@@ -1,6 +1,6 @@
 {
-  "name": "英國倫敦三日遊",
-  "short_name": "英國倫敦三日遊",
+  "name": "倫敦三天二夜自由行",
+  "short_name": "倫敦三天二夜自由行",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -8,14 +8,10 @@
   "theme_color": "#0a1628",
   "icons": [
     {
-      "src": "icon-180.png",
-      "sizes": "180x180",
-      "type": "image/png"
-    },
-    {
-      "src": "icon-512.png",
+      "src": "uk-flag-icon.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
